@@ -1,6 +1,6 @@
 {
   "name": "hexo-draft-tags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A hexo plugin which adds draft tags to isolate markdown text within a post that should be considered 'draft'",
   "main": "index.js",
   "scripts": {
