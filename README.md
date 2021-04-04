@@ -8,11 +8,21 @@ This text will not be rendered in the production version of your site, but will 
 hexo server --draft
 ```
 
+## Installation
+
+Installation of the plugin is best managed via [npm](https://www.npmjs.com/package/hexo-draft-tags). Run the following to install the plugin:
+
+```shell
+npm i hexo-draft-tags
+```
+
+The latest release can also be found [here](https://github.com/CallumHewitt/hexo-draft-tags/releases).
+
 ## Usage
 
 To mark draft text, use the 'draft' tag. End the draft section with the 'enddraft' tag.
 
-```md
+```markdown
 
 # Post title
 
