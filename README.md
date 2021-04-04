@@ -1,5 +1,7 @@
 # hexo-draft-tags
 
+[![npm version](https://badge.fury.io/js/hexo-draft-tags.svg)](https://www.npmjs.com/package/hexo-draft-tags)
+
 A hexo plugin which adds draft tags to isolate markdown text within a post that should be considered 'draft'.
 
 This text will not be rendered in the production version of your site, but will be rendered when the site is run using:
